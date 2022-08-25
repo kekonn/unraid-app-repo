@@ -1,2 +1,3 @@
-# unraid-app-repo
-An unraid app repository
+# Kekkon's unRaid app rep
+
+The unRaid apps I was missing from unRaid
